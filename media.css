@@ -59,7 +59,7 @@ padding: 0;
    .child{
     width: 45%;
    }
-   .information{
+   /* .information{
 padding: 40px 30px;
 flex-wrap: wrap;
    }
@@ -68,7 +68,7 @@ flex-wrap: wrap;
    }
    .first, .secound, .three{
     width: 100%;
-   }
+   } */
 }
 @media screen and (max-width:1024px) {
    .nav{
@@ -87,9 +87,9 @@ flex-wrap: wrap;
     .speach{
         width: 55%;
     }
-    .information{
+    /* .information{
         padding: 40px 50px;
-    }
+    } */
     
 }
 @media screen and (min-width:1200px) {
@@ -107,9 +107,9 @@ flex-wrap: wrap;
     .speach{
         width: 55%;
     }
-    .information{
+    /* .information{
         padding: 50px 10px;
-    }
+    } */
     
 }
 @media screen and (min-width: 769px) {
